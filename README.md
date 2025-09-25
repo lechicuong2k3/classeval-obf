@@ -1,0 +1,1 @@
+When Names Disappear: Revealing What LLMs Actually Understand About Code
