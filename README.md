@@ -31,6 +31,7 @@ Use `main.py` to obfuscate code by variable renaming:
 python main.py --file original.py --output obfuscated.py --scheme 1 --name_length medium
 ```
 
+Or directly run the main.py to obfuscate the code in original.py (put your original code here).
 ### Configuration Options
 
 - `--file`: Input file containing original code
